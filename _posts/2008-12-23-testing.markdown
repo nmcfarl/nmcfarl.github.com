@@ -4,7 +4,7 @@ title: Testing Jekyll
 ---
 
 
-This is is a test of markdown 
+This is is a test of markdown and Jekyll
 
 * One
 * Two
@@ -15,7 +15,6 @@ This is is a test of markdown
 ## Head ##
 
 H2
-----------
 
 
 > Quoting 
